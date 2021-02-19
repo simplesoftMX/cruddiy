@@ -25,30 +25,30 @@
                     <!-- Text input-->
                     <div class="form-group">
                         <label class="col-form-label" for="textinput">Server</label>
-                            <input id="server" name="server" type="text" placeholder="localhost" class="form-control ">
+                            <input id="server" name="server" type="text" placeholder="localhost" value="127.0.0.1:port" class="form-control ">
                     </div>
 
                     <!-- Text input-->
                     <div class="form-group">
                         <label class="col-form-label" for="textinput">Database</label>
-                            <input id="database" name="database" type="text" placeholder="" class="form-control input-md">
+                            <input id="database" name="database" type="text" placeholder="" value="sms" class="form-control input-md">
                     </div>
                     <!-- Text input-->
                     <div class="form-group">
                         <label class="col-form-label" for="textinput">Username</label>
-                            <input id="username" name="username" type="text" placeholder="" class="form-control input-md">
+                            <input id="username" name="username" type="text" placeholder="" value="azure" class="form-control input-md">
                     </div>
 
                     <!-- Password input-->
                     <div class="form-group">
                         <label class="col-form-label" for="passwordinput">Password</label>
-                            <input id="password" name="password" type="password" placeholder="" class="form-control input-md">
+                            <input id="password" name="password" type="password" placeholder="" value="6#vWHD_$" class="form-control input-md">
                     </div>
 
                     <!-- Number records per page-->
                     <div class="form-group">
                             <label class="col-form-label" for="recordsperpage">Items per generated page</label>
-                            <input id="numrecordsperpage" name="numrecordsperpage" type="number" min="1" max="1000" placeholder="Number of items per page" class="form-control input-md" value="10">
+                            <input id="numrecordsperpage" name="numrecordsperpage" type="number" min="1" max="1000" placeholder="Number of items per page" class="form-control input-md" value="35">
                     </div>
 
 
