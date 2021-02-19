@@ -17,7 +17,7 @@
                 <form class="form-horizontal" action="columns.php" method="post">
                     <fieldset>
                         <div class="text-center mb-4">
-                            <h4>Available tables</h4>
+                            <h4>Tablas Disponibles</h4>
                         </div>
 
                         <?php
@@ -56,7 +56,7 @@
                         <div class="row">
                             <div class="col-md-12 offset-5">
                                 <label class="control-label" for="singlebutton"></label>
-                                <button type="submit" id="singlebutton" name="singlebutton" class="btn btn-primary">Select columns from tables</button>
+                                <button type="submit" id="singlebutton" name="singlebutton" class="btn btn-primary">Seleccionar columnas desde tablas</button>
                             </div>
                         </div>
                     </fieldset>
