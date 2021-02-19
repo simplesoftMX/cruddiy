@@ -12,7 +12,7 @@
         <div class="row">
             <div class="col-md-12 mx-auto">
                 <div class="text-center">
-                    <h4 class="mb-0">All available columns</h4>
+                    <h4 class="mb-0">Todas las columnas disponibles</h4>
                 </div>
                 <form class="form-horizontal" action="generate.php" method="post">
                     <fieldset>
